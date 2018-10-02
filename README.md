@@ -36,4 +36,5 @@ export GOVC_URL="https://$VCENTER_USERNAME:@$VCENTER_DOMAIN/sdk"
 export GOVC_INSECURE=1  
 ```
 
-govc about
+Test connectivity
+`govc about`
